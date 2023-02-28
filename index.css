@@ -1,0 +1,38 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.timeshow{
+    font-size: 64px;
+    margin: 10px 0;
+}
+.bc{
+    display: flex;
+    justify-content: center;
+}
+button {
+    font-size: 22px;
+    margin: 20px;
+    padding: 20px 40px;
+}
+#s1{
+    color:white;
+    background-color: green;
+}
+#s2{
+    color:white;
+    background-color: red;
+}
+#s3{
+    color:white;
+    background-color: black;
+}
+#s4{
+    color:white;
+    background-color: blue;
+}
+.cast{
+    font-size: 33px;
+   
+}
